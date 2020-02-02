@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Tutorial Guide
-permalink: /tutorials/home/
-redirect_from: /tutorials/index.html
+permalink: /tutorial/home/
+redirect_from: /tutorial/index.html
 disable_comments: true
 ---
 
@@ -13,5 +13,5 @@ disable_comments: true
 
 #### Input File
 
-* [Important inputs](/tutorials/important_inputs/)   
+* [Important inputs](/tutorial/important_inputs/)   
 
