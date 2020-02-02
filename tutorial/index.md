@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Tutorial Guide
 permalink: /tutorials/home/
 redirect_from: /tutorials/index.html
